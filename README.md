@@ -1,6 +1,6 @@
 # Hello Human! 👋👾
-## Welcome to my profile
 ![imgur](https://i.imgur.com/y5EI5OJ.gif)
+## Welcome to my profile
 ### About me:
 Hello, I'm Nicole and I'm in the process of becoming a Fullstack Web Developer. *#FemTechBCN* 
 I'm currently enjoying the frustration of "not knowing" and the satisfaction of finally understanding. 😄
