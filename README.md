@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello Human! 👋👾
+## Welcome to my profile
 
-<!--
-**marvienicole/marvienicole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
+Hello, I'm Nicole and I'm in the process of becoming a Fullstack Web Developer at ***FactoriaF5*** *#FemTechBCN* 
+I'm currently enjoying the frustration of "not knowing" and the satisfaction of finally understanding. 😄
 
-Here are some ideas to get you started:
+<details>
+  <summary>More about me...</summary>
+  <p>When I was in 5th grade, I learned a great lesson from my maths teacher and applied it to my everyday life up until now.
+ He gave us a paper with a bunch of excercises and I noticed these paragraphs with a huge blank space for us fill with words
+ "Problem", "Solution" and "Answer". </p>
+ <p>And yeah, ever since that day, I applied this method "find the problem", "search for solutions", 
+ "share the best and simplified answer" 
+ and now here I am! Learning how to code! 😳 </p>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### 🌱 I’m currently learning ...
+> - [x] HTML5 and CSS3 
+> - [x] Front-end Javascript (currently learning)
+> - [x] Java (currently learning)
+>    - [x] SpringBoot framework (currently learning)
+> - [ ] PHP
+
