@@ -1,4 +1,4 @@
-# Hello Human! 👋👾
+# 👋 Hello Human! 👾
 ![imgur](https://i.imgur.com/y5EI5OJ.gif)
 ## Welcome to my profile
 ### About me:
