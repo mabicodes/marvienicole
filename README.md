@@ -13,7 +13,7 @@ I'm currently enjoying the frustration of "not knowing" and the satisfaction of 
 - ### 🌱 I’m currently learning ...
 > - [x] HTML5 and CSS3 
 > - [x] Front-end Javascript (currently learning)
-> - [x] Java (currently learning)
+> - [ ] Java (currently learning)
 >    - [x] SpringBoot framework (currently learning)
 > - [ ] PHP
 
