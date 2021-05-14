@@ -3,7 +3,7 @@
                                               
 ![imgur](https://i.imgur.com/y5EI5OJ.gif)
 
-              ~      W E L C O M E    T O    M Y    P R O F I L E !      ~
+    W E L C O M E    T O    M Y    P R O F I L E !   
 ### *About me* 👩🏻‍💻
 > *Hello, I'm Nicole and I'm in the process of becoming a Fullstack Web Developer. *#FemTechBCN* 
 I'm currently enjoying the frustration of "not knowing" and the satisfaction of finally understanding.* 😄
