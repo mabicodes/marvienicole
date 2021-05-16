@@ -1,7 +1,7 @@
 # 👋 Hello Human!👾
 
 
-![](https://i.imgur.com/y5EI5OJ.gif)
+![](https://i.imgur.com/zGz6Djz.gif)
 
     W E L C O M E    T O    M Y    P R O F I L E !   
 ### *About me* 👩🏻‍💻
@@ -22,3 +22,4 @@ alt="Markdown Instagram icon" height="40" width="40"/></a>
 <a href="https://www.linkedin.com/in/marvie-nicole-uy-flores-281b65171/"><img src="https://i.imgur.com/bPt2pH3.png"
 alt="Markdown Instagram icon" height="50" width="50"/></a>
      
+
