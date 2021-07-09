@@ -17,7 +17,7 @@ I'm currently enjoying the frustration of "not knowing" and the satisfaction of 
 - SQL 15%/100% 📝
 
 ### 📱 *Social Media*
-<a href="https://www.instagram.com/marvienicole98/"> <img src="https://i.imgur.com/srDXF9b.png"
+<a href="#"> <img src="https://i.imgur.com/srDXF9b.png"
 alt="Markdown Instagram icon" height="40" width="40"/></a>
 <a href="https://twitter.com/MarvieNicole2/"><img src="https://i.imgur.com/ImIuJoi.png"
 alt="Markdown Instagram icon" height="40" width="40"/></a>
