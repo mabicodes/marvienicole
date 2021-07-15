@@ -5,8 +5,7 @@
 
     W E L C O M E    T O    M Y    P R O F I L E !   
 ### *About me* 👩🏻‍💻
-> *Hello, I'm Nicole and I'm in the process of becoming a Fullstack Web Developer. *#FemTechBCN*
-I'm currently enjoying the frustration of "not knowing" and the satisfaction of finally understanding.* 😄
+> *Hello, I'm Nicole and I'm student at @FactoriaF5 #FemTechBCN, I'm in the process of becoming a Fullstack Web Developer. I'm currently enjoying the frustration of "not knowing" and the satisfaction of finally understanding.* 😄
 
 ### 📚 *I’m currently learning ...* 📚
 -  HTML5 and CSS3 ✔️
