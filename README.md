@@ -16,13 +16,13 @@
 - SQL 25% / 100% 📝
 
 ### 📱 *Social Media*
-<a href="https://instagram.com/maviem13"> <img src="https://i.imgur.com/srDXF9b.png"
+<a href="https://instagram.com/maviem13" target="_blank"> <img src="https://i.imgur.com/srDXF9b.png"
 alt="sdfdsf" height="40" width="40"/></a>
-<a href="https://twitter.com/MarvieNicole2/"><img src="https://i.imgur.com/ImIuJoi.png"
+<a href="https://twitter.com/MarvieNicole2/" target="_blank"><img src="https://i.imgur.com/ImIuJoi.png"
 alt="sdfsdf" height="40" width="40"/></a>
-<a href="#"><img src="https://i.imgur.com/bPt2pH3.png"
+<a href="#"  target="_blank"><img src="https://i.imgur.com/bPt2pH3.png"
 alt="ksdfjk" height="50" width="50"/></a>
-<a href="https://www.twitch.tv/mabi_sama"> <img src="https://i.imgur.com/gBUbxTM.png"
+<a href="https://www.twitch.tv/mabi_sama"  target="_blank"> <img src="https://i.imgur.com/gBUbxTM.png"
 alt="twitch icon" height="50" width="50"/></a>
 
      
