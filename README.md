@@ -9,11 +9,10 @@
 
 ### 📚 *I’m currently learning ...* 📚
 -  HTML5 and CSS3 ✔️
-- React 70% / 100% 📝
-- Front-end Javascript 35% / 100% 📝️ 
-- Java 35% / 100% 📝️
-- PHP 20% / 100%📝
-- SQL 25% / 100% 📝
+- React 📝
+- Java 📝️
+- PHP 📝
+- SQL 📝
 
 ### 📱 *Social Media*
 <a href="https://instagram.com/maviem13" target="_blank"> <img src="https://i.imgur.com/srDXF9b.png"
