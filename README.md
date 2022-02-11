@@ -5,14 +5,16 @@
 
     W E L C O M E    T O    M Y    P R O F I L E !   
 ### *About me* 👩🏻‍💻
-> *Hello, I'm Nicole and I'm a student at @FactoriaF5 #FemTechBCN, I'm in the process of becoming a Fullstack Web Developer. I'm currently enjoying the frustration of "not knowing" and the satisfaction of finally understanding.* 😄
+> *Hello, I'm Nicole and I'm in the process of becoming a Fullstack Web Developer.* 😄
 
 ### 📚 *I’m currently learning ...* 📚
--  HTML5 and CSS3 ✔️
+-  HTML5 📝
+-  CSS3 📝
 - React 📝
 - Java 📝️
 - PHP 📝
 - SQL 📝
+and more . . 📝 
 
 ### 📱 *Social Media*
 <a href="https://instagram.com/maviem13" target="_blank"> <img src="https://i.imgur.com/srDXF9b.png"
