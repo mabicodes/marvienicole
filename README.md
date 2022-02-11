@@ -18,13 +18,13 @@
 and more . . 📝 
 
 ### 📱 *Social Media*
-<a href="https://instagram.com/maviem13" target="_blank"> <img src="https://i.imgur.com/srDXF9b.png"
+<a href="https://instagram.com/mabipen" target="_blank"> <img src="https://i.imgur.com/srDXF9b.png"
 alt="instagram icn" height="40" width="40"/></a>
 <a href="https://twitter.com/MarvieNicole2/" target="_blank"><img src="https://i.imgur.com/ImIuJoi.png"
 alt="twitter icn" height="40" width="40"/></a>
 <a href="https://www.linkedin.com/in/marvie-nicole-uy-281b65171/"  target="_blank"><img src="https://i.imgur.com/bPt2pH3.png"
 alt="linkdn icon" height="50" width="50"/></a>
-<a href="https://www.twitch.tv/mabi_sama"  target="_blank"> <img src="https://i.imgur.com/gBUbxTM.png"
+<a href="#"  target="_blank"> <img src="https://i.imgur.com/gBUbxTM.png"
 alt="twitch icon" height="50" width="50"/></a>
 
      
