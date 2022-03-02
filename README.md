@@ -8,12 +8,13 @@
 > *Hello, I'm Nicole and I'm in the process of becoming a Fullstack Web Developer.* 😄
 
 ### 📚 *I’m currently learning ...* 📚
--  HTML5 📝
--  CSS3 📝
-- React 📝
+-  HTML5 ✅
+-  CSS3 ✅ Sass ✅
+- React ✅
 - Java 📝️
 - PHP 📝
 - SQL 📝
+- Docker 📝
 
 and more . . 📝 
 
